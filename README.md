@@ -1,2 +1,5 @@
 # vmoGame
-very cool commit
+very cool game on vanilla js
+
+## character control
+control the character using the WASD keys

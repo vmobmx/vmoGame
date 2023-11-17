@@ -1,3 +1,4 @@
-function click1() {
-    alert(1);
+function startGame() {
+    window.location = 'levels/test.html';
 }
+
